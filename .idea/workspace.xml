@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6552027-225e-4190-9917-198282674423" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nsIkpdvSGxz2ffXkn1907B1U1C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tesla/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tesla/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6552027-225e-4190-9917-198282674423" name="Default Changelist" comment="" />
+      <created>1612172517774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612172517774</updated>
+      <workItem from="1612172522284" duration="7659000" />
+      <workItem from="1612342082214" duration="99000" />
+      <workItem from="1613028491494" duration="1132000" />
+      <workItem from="1613464978810" duration="850000" />
+      <workItem from="1613465926702" duration="6067000" />
+      <workItem from="1614238021151" duration="2838000" />
+      <workItem from="1614666105386" duration="129000" />
+      <workItem from="1614669331530" duration="20000" />
+      <workItem from="1614671247254" duration="3554000" />
+      <workItem from="1614684841810" duration="89000" />
+      <workItem from="1614840290101" duration="111000" />
+      <workItem from="1614841462087" duration="1355000" />
+      <workItem from="1615134027223" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612183642382">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1612183642382" />
+    <state x="228" y="142" key="IDE.errors.dialog" timestamp="1614671261361">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="228" y="142" key="IDE.errors.dialog/0.0.1280.800@0.0.1280.800" timestamp="1614671261361" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1612207168392">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1612207168392" />
+  </component>
+</project>
